@@ -10,5 +10,5 @@ version          '0.6.5'
   supports os
 end
 
-source_url 'https://github.com/chr4-cookbooks/motd' if respond_to?(:source_url)
-issues_url 'https://github.com/chr4-cookbooks/motd/issues' if respond_to?(:issues_url)
+source_url 'https://github.com/warp3r/motd' if respond_to?(:source_url)
+issues_url 'https://github.com/warp3r/motd/issues' if respond_to?(:issues_url)
